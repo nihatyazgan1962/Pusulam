@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_faith"
+        android:icon="@drawable/ic_nav_faith"
+        android:title="Maneviyat" />
+    <item
+        android:id="@+id/nav_health"
+        android:icon="@drawable/ic_nav_health"
+        android:title="Sağlık" />
+    <item
+        android:id="@+id/nav_mind"
+        android:icon="@drawable/ic_nav_mind"
+        android:title="Zihin" />
+    <item
+        android:id="@+id/nav_life"
+        android:icon="@drawable/ic_nav_life"
+        android:title="Yaşam" />
+</menu>
