@@ -24,4 +24,5 @@ Ayrıntılı tasarım için [Pusulam_Uygulama_Tasarim_Dokumani.md](Pusulam_Uygul
 
 ## 👨‍💻 Geliştirici
 
-**Nihat Yazgan** — Yazgan Bilişim
+**Yazgan Bilişim**  
+E-posta: yazganbilisim2026@gmail.com
