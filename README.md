@@ -22,7 +22,13 @@ Kıble pusulası, namaz vakitleri ve zikirmatiği; adım, su takibi ve günlük 
 
 Ayrıntılı tasarım için [Pusulam_Uygulama_Tasarim_Dokumani.md](Pusulam_Uygulama_Tasarim_Dokumani.md) dosyasına bakın.
 
-## 👨‍💻 Geliştirici
+## 📞 İletişim
 
-**Yazgan Bilişim**  
-E-posta: yazganbilisim2026@gmail.com
+<div align="center">
+
+[![E-posta](https://img.shields.io/badge/E--posta-yazganbilisim2026@gmail.com-00b4d8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yazganbilisim2026@gmail.com)
+[![Diğer Uygulamalarımız](https://img.shields.io/badge/Diğer_Uygulamalarımız-Tüm_Projeler-00b4d8?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)](https://github.com/nihatyazgan1962?tab=repositories)
+
+**Yazgan Bilişim**
+
+</div>
